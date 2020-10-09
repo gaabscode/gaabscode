@@ -1,11 +1,11 @@
-# Olá, Sou a Gabriela 👩🏾‍💻🤟🏾
+# Olá, Sou a Gabriela 🤟🏾
 
 ## Pode me chamar de Gaby 🤗
 <br>
 <link rel="stylesheet" type="text/css" href="readme.css">
 
-<img align="right" src="octocat.png"  width=" 250px" 
-    height= "240px" border-radius="80%"> </h2>
+<img align="right" src="octocat.png"  width=" 350px" 
+    height= "300px" border-radius="80%"> </h2>
 <br>
 <br>
 📚<em> Estudante de ADS
