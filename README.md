@@ -17,10 +17,9 @@
 🏆<em> Aprimorandos estudos em bootcamps, meetups, lives...
 
 <br>
-<br>
-<br>
-<!--
-<h3> Vc me encontra:</h3>
+
+
+## Onde me encontrar:
 <br>
 <div class="redes">
 <a href="https://www.linkedin.com/in/gabrielafabiola/"><img align="left" src="iconfinder_social-linkedin-circle_771370.png"></a>
