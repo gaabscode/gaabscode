@@ -1,6 +1,6 @@
 # Olá, Sou a Gabriela 🤟🏾
 
-## Pode me chamar de Gaby 🤗
+<h3> Pode me chamar de Gaby 🤗</h3>
 <br>
 <link rel="stylesheet" type="text/css" href="readme.css">
 
@@ -8,7 +8,7 @@
     height= "300px" border-radius="80%"> </h2>
 <br>
 <br>
-📚<em> Estudante de ADS
+📚<em> Estudante de Análise e Desenvolvimento de Sistemas
 <br>
 <br>
 💻<em> Focada em Front-end 
@@ -19,7 +19,7 @@
 <br>
 
 
-## Onde me encontrar:
+## Contatos:
 <br>
 <div class="redes">
 <a href="https://www.linkedin.com/in/gabrielafabiola/"><img align="left" src="iconfinder_social-linkedin-circle_771370.png"></a>
