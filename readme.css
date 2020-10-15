@@ -8,6 +8,8 @@ img{
 }
 
 .dados{
-    display: inline-block;
-
+    display: flex;
+    Width: 50px;
+    Height: 50px;
 }
+    
