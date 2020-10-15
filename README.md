@@ -8,6 +8,8 @@
     height= "300px" border-radius="80%"> </h2>
 <br>
 <br>
+
+<br>
 📚<em> Estudante de Análise e Desenvolvimento de Sistemas
 <br>
 <br>
@@ -16,9 +18,12 @@
 <br>
 🏆<em> Aprimorandos estudos em bootcamps, meetups, lives...
 
-<br><br>
-<br><br>
-<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegabys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
