@@ -1,8 +1,7 @@
 # Olá, Sou a Gabriela 🤟🏾
-<br>
-<br>
+
 <h3> Pode me chamar de Gaby 🤗</h3>
-<br>
+
 <link rel="stylesheet" type="text/css" href="readme.css">
 
 <img align="right" src="octocat.png"  width=" 350px" 
