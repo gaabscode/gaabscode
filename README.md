@@ -27,6 +27,8 @@
 <a href="https://www.instagram.com/_gabyfabiola/"><img align="left" src="iconfinder_instagram_1632517(1).png"></a>
  </div>
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codegabys)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
