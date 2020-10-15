@@ -16,7 +16,10 @@
 <br>
 🏆<em> Aprimorandos estudos em bootcamps, meetups, lives...
 
-<br>
+<br><br>
+<br><br>
+<br><br>
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegabys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
