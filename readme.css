@@ -6,3 +6,8 @@ img{
     Width: 20px;
     Height: 50px;
 }
+
+.dados{
+    display: inline;
+
+}
