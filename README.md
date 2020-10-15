@@ -34,12 +34,7 @@
  
 <div class="dados">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegabys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- <br>
- <br>
-
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codegabys&hide=stars,contribs)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegabys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codegabys&hide=stars,contribs)
 </div>
 
 <!--
