@@ -1,5 +1,6 @@
 # Olá, Sou a Gabriela 🤟🏾
-
+<br>
+<br>
 <h3> Pode me chamar de Gaby 🤗</h3>
 <br>
 <link rel="stylesheet" type="text/css" href="readme.css">
@@ -29,7 +30,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegabys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codegabys&hide=stars,contribs)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codegabys&hide=contribs,prs)
 
 ## Contatos:
 <br>
