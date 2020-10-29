@@ -34,10 +34,10 @@
 
 ## Contatos:
 <br>
-<div class="redes">
-<a href="https://www.linkedin.com/in/gabrielafabiola/" target="_blank"><img align="left" src="iconfinder_social-linkedin-circle_771370.png"></a>
-<a href="mailto:ggabrielafabiola@gmail.com" target="_blank"><img align="left" src="iconfinder_5303_-_Gmail_1313515.png"/></a> 
-<a href="https://www.instagram.com/_gabyfabiola" target="_blank"><img align="left" src="iconfinder_instagram_1632517(1).png"></a>
+<div class="redes">  
+<a href="https://www.linkedin.com/in/gabrielafabiola/"  target="_blank"><img align="left" src="iconfinder_social-linkedin-circle_771370.png"></a>
+<a href="mailto:ggabrielafabiola@gmail.com"   target="_blank"><img align="left" src="iconfinder_5303_-_Gmail_1313515.png"/></a> 
+<a href="https://www.instagram.com/_gabyfabiola"   target="_blank"><img align="left" src="iconfinder_instagram_1632517(1).png"></a>
  </div>
 
 
