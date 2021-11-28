@@ -10,8 +10,9 @@
 
 - 👩🏾‍🎓🎓 Análise e Desenvolvimento de Sistemas
 - 🖥️ Estagiando na área de desenvolvimento
-- Desenvolvimento front-end: HTML, CSS, Javascript
-- Desenvolvimento back-end: Java
+- Apaixonada pela área de tecnologia
+- Sempre gosto de procurar conhecimento seja por livros, videoaulas, bootcamps ..
+
 
  <br>
 
