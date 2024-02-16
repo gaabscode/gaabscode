@@ -1,4 +1,4 @@
-<h1 align="left">Olá, sou a Gaby 👋 </h1>
+<h1 align="left">Gabriela Fabiola</h1>
 
 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou consolidando minha carreira como desenvolvedora júnior, focando em aplicações de sistemas. Na minha posição atual, estou adquirindo experiência prática na criação, manutenção, teste e documentação de serviços e APIs.
 
