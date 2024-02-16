@@ -1,4 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, sou a Gaby 👋 </h1>
+
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou consolidando minha carreira como desenvolvedora júnior, focando em aplicações de sistemas. Na minha posição atual, estou adquirindo experiência prática na criação, manutenção, teste e documentação de serviços e APIs.
+
+Estou dedicando meus esforços para aprimorar minha proficiência em C# e explorar frameworks como .NET Core, Entity Framework e ASP.NET. Além disso, estou me familiarizando com bancos de dados relacionais, incluindo MySQL, Postgres, SQL Server e Oracle.
+
+Estou constantemente em busca de novas oportunidades que me permitam ampliar meus horizontes profissionais, aplicar meu conhecimento e contribuir para o desenvolvimento de soluções tecnológicas inovadoras.
+
+
 
 ###
 
@@ -8,17 +16,8 @@
 
 ###
 
-<h2 align="left">I code with</h2>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabrielafabiola/" target="_blank">
