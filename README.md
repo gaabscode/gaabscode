@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">🔭 Na minha posição atual, estou adquirindo experiência prática na criação, manutenção, teste e documentação de serviços e APIs.</p>
+<p align="left">🔭 Na minha posição atual, estou adquirindo experiência prática na criação, manutenção, teste e documentação de serviços e APIs. Além disso, tenho práticas com bancos de dados relacionais, incluindo MySQL, Postgres, SQL Server e Oracle.</p>
 
 ###
 
-<p align="left">📚  Estou dedicando meus esforços para aprimorar minha proficiência em C# e explorar frameworks como .NET Core, Entity Framework e ASP.NET. Além disso, estou me familiarizando com bancos de dados relacionais, incluindo MySQL, Postgres, SQL Server e Oracle.</p>
+<p align="left">📚  Sigo dedicando meus esforços para aprimorar minha proficiência em C# e explorar frameworks como .NET Core, ASP.NET Core e conhecimentos relacionado ao frontend e cloud. 
 
 ###
 
